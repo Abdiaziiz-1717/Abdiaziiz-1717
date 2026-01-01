@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Backend-Focused Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdiaziiz-1717&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -72,12 +72,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdiaziiz-1717&show_icons=true&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdiaziiz-1717&layout=compact&theme=dark" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdiaziiz-1717&theme=dark" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
   <a href="mailto:cabdicaziiz1717@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Abdiaziiz-1717">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
