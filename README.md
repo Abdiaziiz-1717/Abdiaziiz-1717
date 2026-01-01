@@ -1,97 +1,105 @@
-# Hi 👋, I'm Abdiaziiz Aweis Bashir
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Abdiaziiz Aweis Bashir</h1>
+<h3 align="center">Software Engineer | Backend-Focused Full-Stack Developer</h3>
 
-## Software Engineer | Backend-Focused Full-Stack Developer
-
-I’m a **Software Engineer** based in **Mogadishu, Somalia**, currently working at **Jamhuriya Technology Solutions (Jtech)**.  
-I specialize in **backend development, system logic, and API design**, with strong experience building **enterprise-level full-stack and mobile applications**.
-
-I enjoy solving complex problems, designing scalable architectures, and turning real-world business requirements into reliable software solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Bachelor of Computer Science (BCS)** — Jamhuriya University (2021 – 2025)
-- 💼 **Software Engineer** at **Jamhuriya Technology Solutions (Jtech)**
-- 🧠 Backend-focused with full-stack experience
-- 🔧 Experienced in building **enterprise and production systems**
-- 🌍 Based in Mogadishu, Somalia
-- 📧 Email: **cabdicaziiz1717@gmail.com**
-- 📱 Phone: **+252 617 974 917**
+<p>
+🎓 Bachelor of Computer Science (BCS) graduate from <b>Jamhuriya University</b><br/>
+💼 Software Engineer at <b>Jamhuriya Technology Solutions (Jtech)</b><br/>
+🧠 Backend-focused engineer specializing in APIs & system logic<br/>
+🌍 Based in Mogadishu, Somalia<br/>
+📧 Email: <b>cabdicaziiz1717@gmail.com</b><br/>
+📱 Phone: <b>+252 617 974 917</b>
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Skills
 
-### Backend Development
-- Node.js  
-- PHP (Laravel)  
-- Java (Spring Boot)
-
-### Frontend Development
-- React.js  
-- Next.js  
-
-### Mobile Development
-- Flutter  
+### Programming Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java,spring,react,nextjs,flutter" />
+</p>
 
 ### Databases
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-- Microsoft SQL Server  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</p>
 
 ### Tools & Platforms
-- Git & GitHub  
-- Firebase  
-- WordPress  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress" />
+</p>
 
 ---
 
 ## 💼 Work Experience
 
-### **Software Engineer — Jamhuriya Technology Solutions (Jtech)**  
-**2025 – Present**
+### 🧑‍💻 Software Engineer — Jamhuriya Technology Solutions (Jtech)
+📅 **2025 – Present**
 
-- Building robust **backend systems, APIs, and full-stack applications** for production use
-- Developing **enterprise-level solutions** using Laravel, Node.js, Java Spring Boot, React.js, and Flutter
-- Designing backend architecture and implementing complex business logic
-- Collaborating with teams to deliver scalable and maintainable systems
+- Building scalable backend systems and RESTful APIs  
+- Developing enterprise-level full-stack applications  
+- Working with Laravel, Node.js, Java Spring Boot, React, and Flutter  
+- Designing backend architecture and complex business logic  
 
 ---
 
-### **Software Engineer Intern — Jamhuriya Technology Solutions (Jtech)**  
-**Early 2025 — 8 Months**
+### 🧑‍💻 Software Engineer Intern — Jamhuriya Technology Solutions (Jtech)
+📅 **Early 2025 (8 Months)**
 
-- Completed an intensive **8-month internship**
-- Worked on **real-world enterprise applications**
-- Contributed to production codebases
-- Gained hands-on experience with **Laravel, Node.js, and full-stack development**
+- Completed an intensive 8-month internship  
+- Developed and contributed to production enterprise systems  
+- Gained real-world experience in Laravel, Node.js, and full-stack development  
 
 ---
 
 
 ## 🌐 Languages
 
-- Somali  
-- English  
+- 🇸🇴 Somali  
+- 🇬🇧 English  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Abdiaziiz-1717=Abdiaziiz-1717&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Abdiaziiz-1717=Abdiaziiz-1717&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:cabdicaziiz1717@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I’m open to:
-- Backend & Full-Stack roles  
-- Enterprise software projects  
-- Long-term collaborations  
-- Open-source contributions  
+✔ Backend & Full-Stack Roles  
+✔ Enterprise & SaaS Projects  
+✔ Long-term Collaborations  
+✔ Open-source Contributions  
 
-Let’s build impactful software together 🚀
+🚀 *Let’s build reliable, scalable software together.*
