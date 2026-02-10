@@ -71,10 +71,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdiaziiz-1717&show_icons=true&theme=dark&cache_seconds=86400" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdiaziiz-1717&layout=compact&theme=dark&cache_seconds=86400" height="170"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abdiaziiz-1717&theme=dark" />
